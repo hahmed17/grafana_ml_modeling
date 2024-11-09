@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/823465727454481216/51adbe98a94b4f228364b608c2e388e3/artifacts
+deleted_time: 1731116663978
+end_time: 1731116638117
+entry_point_name: ''
+experiment_id: '823465727454481216'
+lifecycle_stage: deleted
+run_id: 51adbe98a94b4f228364b608c2e388e3
+run_name: LinearRegression_2024_11_08_054356PM
+run_uuid: 51adbe98a94b4f228364b608c2e388e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731116636793
+status: 3
+tags: []
+user_id: Hena

@@ -1,0 +1,9 @@
+digest: 64a585f9
+name: dataset
+profile: '{"num_rows": 25, "num_elements": 100}'
+schema: '{"mlflow_colspec": [{"type": "integer", "name": "size", "required": true},
+  {"type": "integer", "name": "sparsity", "required": true}, {"type": "integer", "name":
+  "min", "required": true}, {"type": "integer", "name": "max", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Hena", "mlflow.source.name": "/Users/Hena/anaconda3/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
