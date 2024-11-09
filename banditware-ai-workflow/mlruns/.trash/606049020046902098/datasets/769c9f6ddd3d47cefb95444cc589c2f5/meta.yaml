@@ -1,0 +1,9 @@
+digest: 9803e356
+name: dataset
+profile: '{"num_rows": 2030, "num_elements": 10150}'
+schema: '{"mlflow_colspec": [{"type": "integer", "name": "size", "required": true},
+  {"type": "integer", "name": "sparsity", "required": true}, {"type": "integer", "name":
+  "min", "required": true}, {"type": "integer", "name": "max", "required": true},
+  {"type": "double", "name": "hardware", "required": true}]}'
+source: '{"uri": "data.csv"}'
+source_type: local

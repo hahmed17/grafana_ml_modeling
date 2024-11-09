@@ -1,0 +1,12 @@
+digest: f2cf946c
+name: dataset
+profile: '{"num_rows": 2030, "num_elements": 16240}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Unnamed: 0", "required": true},
+  {"type": "long", "name": "size", "required": true}, {"type": "double", "name": "sparsity",
+  "required": true}, {"type": "long", "name": "min", "required": true}, {"type": "long",
+  "name": "max", "required": true}, {"type": "long", "name": "cpu_cores", "required":
+  true}, {"type": "long", "name": "runtime", "required": true}, {"type": "long", "name":
+  "hardware", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Hena", "mlflow.source.name": "/Users/Hena/anaconda3/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
