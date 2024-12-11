@@ -1,0 +1,28 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.10.2
+model_size_bytes: 657
+model_uuid: 916cda7e18534ecc9907d4f2658b1b44
+run_id: 0b1908c173a446c594b4f93bbe59f215
+signature:
+  inputs: '[{"type": "integer", "name": "canopy_moisture", "required": true}, {"type":
+    "integer", "name": "surface_moisture", "required": true}, {"type": "integer",
+    "name": "threads", "required": true}, {"type": "integer", "name": "wind_direction",
+    "required": true}, {"type": "integer", "name": "wind_speed", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    1]}}]'
+  params: null
+utc_time_created: '2024-12-11 01:04:27.924131'
