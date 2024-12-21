@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/674309466866021494
+creation_time: 1734563863185
+experiment_id: '674309466866021494'
+last_update_time: 1734564324860
+lifecycle_stage: deleted
+name: Recommender_matmul_all-data_ft514
+tags: {}

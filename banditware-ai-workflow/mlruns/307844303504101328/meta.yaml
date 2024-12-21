@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/307844303504101328
+creation_time: 1734563888010
+experiment_id: '307844303504101328'
+last_update_time: 1734563888010
+lifecycle_stage: active
+name: Recommender_matmul_less-data_ep410

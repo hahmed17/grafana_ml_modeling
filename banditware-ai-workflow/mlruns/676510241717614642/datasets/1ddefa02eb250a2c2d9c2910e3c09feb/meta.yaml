@@ -1,0 +1,7 @@
+digest: 9d36eb89
+name: dataset
+profile: '{"num_rows": 1374, "num_elements": 31602}'
+schema: ''
+source: '{"tags": {"mlflow.user": "Hena", "mlflow.source.name": "/Users/Hena/anaconda3/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

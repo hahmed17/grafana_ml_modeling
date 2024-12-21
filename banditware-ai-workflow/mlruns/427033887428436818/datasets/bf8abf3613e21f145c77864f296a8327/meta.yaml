@@ -1,0 +1,10 @@
+digest: c5dc52d0
+name: dataset
+profile: '{"num_rows": 25, "num_elements": 150}'
+schema: '{"mlflow_colspec": [{"type": "integer", "name": "canopy_moisture", "required":
+  true}, {"type": "integer", "name": "surface_moisture", "required": true}, {"type":
+  "integer", "name": "threads", "required": true}, {"type": "integer", "name": "wind_direction",
+  "required": true}, {"type": "integer", "name": "wind_speed", "required": true},
+  {"type": "double", "name": "hardware", "required": true}]}'
+source: '{"uri": "data.csv"}'
+source_type: local
