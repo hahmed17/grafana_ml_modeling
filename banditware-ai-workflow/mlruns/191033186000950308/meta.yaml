@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/191033186000950308
+creation_time: 1734983068535
+experiment_id: '191033186000950308'
+last_update_time: 1734983068535
+lifecycle_stage: active
+name: Recommender_matmul_kf115
